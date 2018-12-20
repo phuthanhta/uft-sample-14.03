@@ -1,0 +1,1 @@
+﻿Browser("QASymphony - Home of the").Page("QASymphony - Home of the").Link("Meet Our Team").Click @@ hightlight id_;_Browser("QASymphony - Home of the").Page("QASymphony - Home of the").Link("Meet Our Team")_;_script infofile_;_ZIP::ssf1.xml_;_

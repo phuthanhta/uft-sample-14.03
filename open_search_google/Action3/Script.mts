@@ -1,0 +1,1 @@
+﻿Browser("Software Testing, Test").Page("Software Testing, Test").Link("Company").Click @@ hightlight id_;_Browser("Software Testing, Test").Page("Software Testing, Test").Link("Company")_;_script infofile_;_ZIP::ssf1.xml_;_
