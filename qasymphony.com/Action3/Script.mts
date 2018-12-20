@@ -1,0 +1,1 @@
+﻿Browser("You searched for automation").Page("You searched for automation").Link("Company").Click @@ hightlight id_;_Browser("You searched for automation").Page("You searched for automation").Link("Company")_;_script infofile_;_ZIP::ssf1.xml_;_

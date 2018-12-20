@@ -1,0 +1,3 @@
+﻿Browser("Software Testing, Test").Page("Software Testing, Test").Link("Search").Click @@ hightlight id_;_Browser("Software Testing, Test").Page("Software Testing, Test").Link("Search")_;_script infofile_;_ZIP::ssf1.xml_;_
+Browser("Software Testing, Test").Page("Software Testing, Test").WebEdit("s").Set "automation host" @@ hightlight id_;_Browser("Software Testing, Test").Page("Software Testing, Test").WebEdit("s")_;_script infofile_;_ZIP::ssf2.xml_;_
+Browser("Software Testing, Test").Page("Software Testing, Test").WebButton("SEARCH").Click @@ hightlight id_;_Browser("Software Testing, Test").Page("Software Testing, Test").WebButton("SEARCH")_;_script infofile_;_ZIP::ssf3.xml_;_
