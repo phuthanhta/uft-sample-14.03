@@ -1,1 +1,0 @@
-﻿Browser("qasymphony - Google Search").Page("qasymphony - Google Search").Link("QASymphonyhttps://www.qasympho").Click @@ hightlight id_;_Browser("qasymphony - Google Search").Page("qasymphony - Google Search").Link("QASymphonyhttps://www.qasympho")_;_script infofile_;_ZIP::ssf1.xml_;_
